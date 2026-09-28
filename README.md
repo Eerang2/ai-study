@@ -17,7 +17,7 @@
 
 | 파트 | 주제 | 벨로그 | 실습 코드 | 상태 |
 |---|---|---|---|---|
-| PART 1. AI 기초 | 머신러닝의 원리와 학습 방식 | [글 보기](벨로그-주소) | [linear-regression.ipynb](01-ai-basics/linear-regression.ipynb) | 작성 완료 |
+| PART 1. AI 기초 | 머신러닝의 원리와 학습 방식 | [글 보기](벨로그-주소) | [Python](01-ai-basics/linear-regression.ipynb), [Java](01-ai-basics/LinearRegressionDemo.java) | 작성 완료 |
 | PART 1. AI 기초 | 딥러닝과 신경망 | - | - | 작성 중 |
 | PART 2. LLM | 작동 원리, 학습 과정, 환각 | - | - | 예정 |
 | PART 3. MCP | LLM이 외부 도구를 사용하는 구조 | - | - | 예정 |
